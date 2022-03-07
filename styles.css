@@ -1,10 +1,12 @@
 /* Write your CSS here! */
+
+
 body {
   
 	width: 100%;
 	max-width: 1024px;
 	margin: 0 auto;
-	background-color: #999;
+	background-color: grey;
 	
 }
 
@@ -12,7 +14,17 @@ h2 {
     margin: 5px 40px 5px 10px;
   }
 
+  h1{
+    color: beige;
+  }
+
+  h2{
+    color: aqua;
+  }
 p {
+  background-image: url('img_girl.jpg');
+  color: antiquewhite;
+
     margin: 5px 100px 25px 30px;
     padding: 1.25em;
     /*background-color:lightyellow;*/
@@ -21,3 +33,10 @@ p {
   div{
       padding: 25px 50px 75px 100px;
   }
+  footer {
+    /*border: 1px solid yellowgreen;*/
+    text-align: left;
+    color: white;
+    padding: 3em;
+  }
+  
