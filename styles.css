@@ -14,12 +14,13 @@ h2 {
     margin: 5px 40px 5px 10px;
   }
 
-  h1{
-    color: beige;
-  }
 
   h2{
     color: aqua;
+  }
+
+  #mainHeading{
+    color: red;
   }
 p {
   
