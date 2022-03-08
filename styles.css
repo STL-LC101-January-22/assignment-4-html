@@ -22,6 +22,11 @@ h2 {
   #mainHeading{
     color: red;
   }
+
+  p.funParagraph {
+    color: green;
+      }
+      
 p {
   
   color: antiquewhite;
@@ -30,9 +35,7 @@ p {
     /*background-color:lightyellow;*/
   }
 
-.funParagraph{
-    color: green;
-  }
+
 
   div{
       padding: 25px 50px 75px 100px;
