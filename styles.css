@@ -26,7 +26,9 @@ h2 {
   p.funParagraph {
     color: green;
       }
-      
+      p.green {
+        color: green;
+          }
 p {
   
   color: antiquewhite;
